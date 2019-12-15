@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c88617bf-aeb7-4d4f-a815-a0ca8433149a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="310" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ListPostsByRanking" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uq6h678qdt51I0Anicu8hODlML" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/kwan/ie/listpostsbyranking/services/user" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="kwan.ie.listpostsbyranking.presentation.user" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="kwan.ie.listpostsbyranking.config" />
+      <recent name="kwan.ie.listpostsbyranking.presentation.user" />
+      <recent name="kwan.ie.listpostsbyranking.presentation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tiago\Desktop\Dev\Projects\Challenges\InvoiceExpress\ListPostsByRanking\src\main\java\kwan\ie\listpostsbyranking\services\user" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kwan.ie.listpostsbyranking.repos" />
+      <recent name="kwan.ie.listpostsbyranking" />
+      <recent name="kwan.ie.listpostsbyranking.exception" />
+      <recent name="kwan.ie.listpostsbyranking.dal.repository" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tiago\Desktop\Dev\Projects\Challenges\InvoiceExpress\ListPostsByRanking\src\test\resources\kwan.ie.listpostsbyranking.repos" />
+      <recent name="C:\Users\Tiago\Desktop\Dev\Projects\Challenges\InvoiceExpress\ListPostsByRanking\src\test\resources" />
+      <recent name="C:\Users\Tiago\Desktop\Dev\Projects\Challenges\InvoiceExpress\ListPostsByRanking\src\test\java\kwan\ie\listpostsbyranking\repos" />
+      <recent name="C:\Users\Tiago\Desktop\Dev\Projects\Challenges\InvoiceExpress\ListPostsByRanking\src\test\java\kwan\ie\listpostsbyranking" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'ListPostsByRanking.test'">
+    <configuration name="ListPostsByRankingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kwan.ie.listpostsbyranking.ListPostsByRankingApplication" />
+      <module name="ListPostsByRanking.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kwan.ie.listpostsbyranking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostControllerTest.itShouldReturnCreatedPost" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kwan.ie.listpostsbyranking.controllers.PostControllerTest.itShouldReturnCreatedPost&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostControllerTest.itShouldUpVoteSuccessfully" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kwan.ie.listpostsbyranking.controllers.PostControllerTest.itShouldUpVoteSuccessfully&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostControllerTest.itShouldVoteSuccessfully" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kwan.ie.listpostsbyranking.controllers.PostControllerTest.itShouldVoteSuccessfully&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'ListPostsByRanking.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'ListPostsByRanking.test'" />
+        <item itemvalue="Gradle.PostControllerTest.itShouldVoteSuccessfully" />
+        <item itemvalue="Application.ListPostsByRankingApplication" />
+        <item itemvalue="Gradle.PostControllerTest.itShouldReturnCreatedPost" />
+        <item itemvalue="Gradle.PostControllerTest.itShouldUpVoteSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c88617bf-aeb7-4d4f-a815-a0ca8433149a" name="Default Changelist" comment="" />
+      <created>1576071893625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576071893625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="255" key="#Auto_Import" timestamp="1576258704210">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="141" y="255" key="#Auto_Import/0.0.2194.1194@0.0.2194.1194" timestamp="1576258704210" />
+    <state x="1086" y="410" key="#com.intellij.ide.util.MemberChooser" timestamp="1576431726020">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="931" y="350" key="#com.intellij.ide.util.MemberChooser/0.0.2194.1194@0.0.2194.1194" timestamp="1576265269324" />
+    <state x="1086" y="410" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1576431726020" />
+    <state x="887" y="456" width="441" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576268286366">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="887" y="456" width="441" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2194.1194@0.0.2194.1194" timestamp="1576268286366" />
+    <state x="814" y="315" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1576270430567">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="814" y="315" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1576270430567" />
+    <state x="279" y="343" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576266065514">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="279" y="343" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1576266065514" />
+    <state width="2517" height="559" key="GridCell.Tab.0.bottom" timestamp="1576443859325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="467" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1576270845291" />
+    <state width="2517" height="559" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1576443859325" />
+    <state width="2517" height="559" key="GridCell.Tab.0.center" timestamp="1576443859325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="467" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1576270845291" />
+    <state width="2517" height="559" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1576443859325" />
+    <state width="2517" height="559" key="GridCell.Tab.0.left" timestamp="1576443859325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="467" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1576270845291" />
+    <state width="2517" height="559" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1576443859325" />
+    <state width="2517" height="559" key="GridCell.Tab.0.right" timestamp="1576443859325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="467" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1576270845291" />
+    <state width="2517" height="559" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1576443859325" />
+    <state width="2517" height="490" key="GridCell.Tab.1.bottom" timestamp="1576439028501">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="408" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1576269099512" />
+    <state width="2517" height="490" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1576439028501" />
+    <state width="2517" height="490" key="GridCell.Tab.1.center" timestamp="1576439028501">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="408" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1576269099511" />
+    <state width="2517" height="490" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1576439028501" />
+    <state width="2517" height="490" key="GridCell.Tab.1.left" timestamp="1576439028501">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="408" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1576269099511" />
+    <state width="2517" height="490" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1576439028501" />
+    <state width="2517" height="490" key="GridCell.Tab.1.right" timestamp="1576439028501">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="408" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1576269099511" />
+    <state width="2517" height="490" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1576439028501" />
+    <state x="29" y="171" key="SettingsEditor" timestamp="1576259971372">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="29" y="171" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1576259971372" />
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1576439039008">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576439039008" />
+    <state x="823" y="490" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576257637534">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="823" y="490" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2194.1194@0.0.2194.1194" timestamp="1576257637534" />
+    <state x="1011" y="456" key="extract.method.dialog" timestamp="1576442790880">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1011" y="456" key="extract.method.dialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576442790880" />
+    <state x="205" y="281" key="run.anything.popup" timestamp="1576254919573">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="205" y="281" key="run.anything.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1576254919573" />
+    <state x="211" y="264" width="672" height="678" key="search.everywhere.popup" timestamp="1576258756382">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="211" y="264" width="672" height="678" key="search.everywhere.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1576258756382" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kwan/ie/listpostsbyranking/presentation/user/UserController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ListPostsByRanking$UserControllerTest.ic" NAME="UserControllerTest Coverage Results" MODIFIED="1576255924134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ListPostsByRanking$ListPostsByRankingApplicationTests_testPersistAndQuery.ic" NAME="ListPostsByRankingApplicationTests.testPersistAndQuery Coverage Results" MODIFIED="1576264044330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
